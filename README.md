@@ -1,3 +1,11 @@
+# blackroad-os-roadchain
+
+> 🎰 Bitcoin Cosmic Lottery Dashboard - Real-time mining progress tracker for Raspberry Pi miners. The space between is where miracles happen! ✨
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # 🎰 BlackRoad OS - RoadChain: Cosmic Lottery Dashboard
 
 > ✅ **VERIFIED WORKING** — All CI/CD workflows are running, actions are pinned to SHA-256 commit hashes, automerge is enabled for Dependabot and bot PRs, and Cloudflare Workers handle long-running API tasks. Last verified: 2026-03-04.
